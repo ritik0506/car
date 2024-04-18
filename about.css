@@ -1,0 +1,23 @@
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 0;
+  }
+  
+  .about h2 {
+    flex-basis: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  .about p {
+    flex-basis: 60%;
+    margin-right: 2rem;
+  }
+  
+  .about img {
+    flex-basis: 40%;
+    max-width: 100%;
+    border-radius: 50%;
+  }

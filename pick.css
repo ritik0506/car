@@ -1,0 +1,45 @@
+.booking-section {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .booking-section h2 {
+    text-align: center;
+    margin-bottom: 30px;
+   color: #333;
+  }
+  
+  .booking-section label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .booking-section input,
+  .booking-section select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  
+  .booking-section button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .booking-section button:hover {
+    background-color: #444;
+  }
